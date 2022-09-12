@@ -1,0 +1,14 @@
+pizza (transposition : rail fence cipher)
+p z a
+ i z
+
+kominfo (substitution : ROT13 cipher)
+xbzvasb XBZVASB
+
+cybersecurity (transposition : scytale)
+c y b e r s e
+ c u r i t y
+CCYUBREIRTSYE
+
+python (substitution : Caesar Cipher (+3))
+sbwkrq SBWKRQ
