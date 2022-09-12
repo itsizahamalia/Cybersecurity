@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+logging
+requests
+st_lottie
+Image
+altair
